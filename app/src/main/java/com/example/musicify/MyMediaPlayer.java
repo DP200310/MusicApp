@@ -1,6 +1,5 @@
 package com.example.musicify;
 import android.media.MediaPlayer;
-
 public class MyMediaPlayer {
     static MediaPlayer instance;
     public static MediaPlayer getInstance(){
