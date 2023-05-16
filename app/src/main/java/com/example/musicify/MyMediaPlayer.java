@@ -8,6 +8,5 @@ public class MyMediaPlayer {
         }
         return instance;
     }
-
     public static int currentIndex=-1;
 }
